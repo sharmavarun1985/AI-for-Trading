@@ -5,9 +5,6 @@
 
   Source: https://unsplash.com/ (non copyright)
 
-
-<img src="./images/Bull.png" width="400" height="250"></img>
-
 This repo contains detailed notes and multiple projects implemented in Python related to AI and Finance such as portfolio optimization, researching alpha factors, leveraging Alphalens and backtesting your strategy via Zipline.
 
 
