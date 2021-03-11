@@ -1,7 +1,8 @@
 # AI-for-Trading
  Udacity NanoDegree - AI for Trading
 
-<img alt="./images/Bull.jpg" width="200" height="100">
+<img src="./images/Bull.png" width="200" height="100"></img>
+
 
 
 This repo contains detailed notes and multiple projects implemented in Python related to AI and Finance such as portfolio optimization, researching alpha factors, leveraging Alphalens and backtesting your strategy via Zipline.
