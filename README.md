@@ -1,11 +1,13 @@
 # AI-for-Trading
  Udacity NanoDegree - AI for Trading
+ <img src="bull.JPEG">
+
 📈 This repo contains detailed notes and multiple projects implemented in Python related to AI and Finance such as portfolio optimization, researching alpha factors, leveraging Alphalens and backtesting your strategy via Zipline.
 
 
 
 ## Contributor
-- [Varun Sharma](https://sharmavarun1985.github.io)
+- [Varun Sharma](https://github.com/sharmavarun1985)
 
 ## Contributing
 
