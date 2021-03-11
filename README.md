@@ -1,7 +1,7 @@
 # AI-for-Trading
  Udacity NanoDegree - AI for Trading
 
-![](assets/README-bb41db2f.png)
+![](assets/README-ae97932e.png)
 
   Source: https://unsplash.com/ (non copyright)
 
