@@ -50,8 +50,8 @@ The most common terms used in practice are *Open, High, Low, Close (OHLC)*. Belo
 <img src="./images/3. OHLC Chart.png" width="350" height="200"></img>
 
 * Open is the stock price at the begining of the period.
-* High and Low capture its range of movement 
-* Close is where it ends. 
+* High and Low capture its range of movement
+* Close is where it ends.
 * Daily closing price is the one that is quoted most often. This is usually used by casual traders and investors interested in long term gains.
 * Opening price is where the first trade of the day to take place. There might be a gap from last day's closing price due to pre-market trading or trading in other markets.
 * High-Low captures the movement of the stocks
@@ -59,8 +59,8 @@ The most common terms used in practice are *Open, High, Low, Close (OHLC)*. Belo
 ## Volume
 Another valuable metric is the number of shares traded over a period of time known as *Volume*. Sum of *unit_price times volume* gives an accurate description of total amount of money moving around. Volume can also decide how sharply the price may rise or fall.<br>
 In general:<br>
-* *large volume of buy order tends to increased stock price*. 
-* *large volume of net sell orders tends to decreased stock price*. 
+* *large volume of buy order tends to increased stock price*.
+* *large volume of net sell orders tends to decreased stock price*.
 
 ### Intraday Volume
 Stocks that are of active interest will see a lot of trading at the begining of the day. All the investors engage in a process called *price discovery* where they analyze all the new information gathered since the previous day's market close. This process of *price discovery* helps buyers and sellers agree on a mutually accpetable market price value for the stock.<br><br>
@@ -141,7 +141,7 @@ Now if we point the plots that are above and below these Bollinger Bands, we can
 
 A term you’ll see often is price to earnings ratio, or PE ratio for short. <br>
 ```
-PE Ratio = (stock’s current market price) / (most recently reported earnings per share (EPS)) 
+PE Ratio = (stock’s current market price) / (most recently reported earnings per share (EPS))
 ```
 You can sort of interpret the PE ratio as how much the company is valued compared to how much money it made.<br>
 The market price of a stock is based on both its current assets minus liabilities, but also estimates of the company’s future performance.<br><br>
@@ -152,7 +152,7 @@ Also, an example of a company with a low PE ratio may be one that has high and s
 # Exchange Traded Funds (ETFs)
 
 Many banks and other financial institutiosn offer *mutual funds* where the professionals pull the money from multiple investors and buy shares on their behalf. We can chose funds according to our investment goals -<br>
-1. Lower rate of return : Reduced risk 
+1. Lower rate of return : Reduced risk
 2. Higher rate of return : High risk
 
 In addition to combining multiple stocks, some funds are traded on stock exchange themselves i.e. in order to invest money in these funds, we need to buy their shares on the market. Hence they are known as *Exchange Traded Funds (ETFs)*. A popular ETF is *Standard & Poor's 500 (S&P500)*
@@ -198,9 +198,9 @@ In this case, you will buy the stocks and hold on to it for a fixed time or unti
 2. *Stock has a downward momentum.*<br>
 In this case, you believe that, due to momentum strategy, it will continue to fall down for some time. In this scenario, you take a *short position on stock*, where you sell first and buy back later. <br><br>
 <img src="./images/17. Shorting.png" width="400" height="200"></img><br><br>
-It means that you borrow shares from someone, ex. broker and promise to return them once your short position is closed. Brokers earn from the profit you make on your short sale. In case you fail to fulfill the promise and never buy-back the shares, in this case, brokers ask you to keep some money in margin account. 
+It means that you borrow shares from someone, ex. broker and promise to return them once your short position is closed. Brokers earn from the profit you make on your short sale. In case you fail to fulfill the promise and never buy-back the shares, in this case, brokers ask you to keep some money in margin account.
 
-## Terminologies 
+## Terminologies
 ### Cross-sectional Strategy
 It can be risky to invest in individual stock markets. Instead, you can adopt a cross-sectional strategy, where you invest in multiple stocks at the same time and use the ranking to select stocks for *long (top-performers)* and *short (bottom performers)* positions.<br><br>
 
@@ -237,24 +237,3 @@ Using this *t-statistic*, we can calculate the probability of getting mean month
 
 * *p-value is very small : unlikely that true mean is zero.* We need to also set a *threshold* for p-value to conclude that if p-value falls below this threshold, the true-mean is unlikely to be zero. This threshold is denoted by the term *alpha*. Commonly used value is 0.1.<br><br>
 <img src="./images/22. alpha.png" width="500" height="250"></img><br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
