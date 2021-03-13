@@ -1,4 +1,4 @@
-# Stock Prices
+  # Stock Prices
 
 # Terminologies
 
@@ -236,4 +236,5 @@ Using this *t-statistic*, we can calculate the probability of getting mean month
 <img src="./images/21. p value.png" width="500" height="250"></img><br><br>
 
 * *p-value is very small : unlikely that true mean is zero.* We need to also set a *threshold* for p-value to conclude that if p-value falls below this threshold, the true-mean is unlikely to be zero. This threshold is denoted by the term *alpha*. Commonly used value is 0.1.<br><br>
+* *p-value explained*: When using t-test for alpha, we firstly make a null hypothesis stating the average return of an Alpha is 0. And then, after evaluating the return with t-test, if we got positive return and the p-value smaller than we expected, saying 0.05, we will conclude that the average positive return is solely from the alpha itself instead of some random noise.
 <img src="./images/22. alpha.png" width="500" height="250"></img><br><br>
