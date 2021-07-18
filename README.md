@@ -3,18 +3,15 @@
 
 ![](assets/README-0b8ce9e2.png)
 
-  Source: https://unsplash.com/ (non copyright)
-
 This repo contains detailed notes and multiple projects implemented in Python related to AI and Finance such as portfolio optimization, researching alpha factors, leveraging Alphalens and backtesting your strategy via Zipline.
 
-PART 1
-Quantitative Trading
-Learn the basics of quantitative analysis, including data processing, trading signal generation, and portfolio management. Use Python to work with historical stock data, develop trading strategies, and construct a multi-factor model with optimization.
+### PART 1
 
-Project: Trading with Momentum [Project](Term 1 - Quantitative Trading\Project 1\home\project_1_starter.ipynb\)
-Project: Breakout Strategy
-Project: Smart Beta and Portfolio Optimization
-Project: Multi-factor Model
+* Quantitative Trading
+* Project: Trading with Momentum [Project](Project 1\home\project_1_starter.ipynb)
+* Project: Breakout Strategy
+* Project: Smart Beta and Portfolio Optimization
+* Project: Multi-factor Model
 
 PART 2
 AI Algorithms in Trading
