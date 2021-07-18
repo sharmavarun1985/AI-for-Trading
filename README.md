@@ -8,7 +8,7 @@ This repo contains detailed notes and multiple projects implemented in Python re
 ### PART 1
 
 ### Quantitative Trading
-* Project: Trading with Momentum [Projects](Projects/1-Trading-with-momentum/home/project_1_starter.ipynb)
+* Project: Trading with Momentum [Projects](AI-for-Trading/Projects/1 - Trading with momentum/home/project_1_starter.ipynb)
 * Project: Breakout Strategy
 * Project: Smart Beta and Portfolio Optimization
 * Project: Multi-factor Model
